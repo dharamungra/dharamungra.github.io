@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-This is my <a href : "https://drive.google.com/file/d/1rJu_02s2l1Yr9ofSbMl-xJCyUYIUFUzM/view?usp=sharing">resume</a>
+This is my <a href = "https://drive.google.com/file/d/1rJu_02s2l1Yr9ofSbMl-xJCyUYIUFUzM/view?usp=sharing">resume</a>
 
   
