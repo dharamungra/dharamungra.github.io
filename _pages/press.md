@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "News"
+#title: "News"
 permalink: /press/
 author_profile: false
 ---
-## Conferences 
+## Reports about mis/disinformation, social media, network analysis
 * **How Facebook has become a political battleground in Bangladesh**
   <p> In our research collaboration with the Tech Global Institue
   we analyzed nearly half a million pieces of content that resulted in 98 million interactions on Facebook, 
