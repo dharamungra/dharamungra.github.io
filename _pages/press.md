@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Press"
+title: "News"
 permalink: /press/
 author_profile: false
 ---
-<h1>
-How Facebook has become a political battleground in Bangladesh </h1>
+## Conferences 
+* **How Facebook has become a political battleground in Bangladesh**
 <p> In our research collaboration with the Tech Global Institue
   we analyzed nearly half a million pieces of content that resulted in 98 million interactions on Facebook, 
   to understand how political parties in Bangladesh are leveraging sophisticated information networks on 
