@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can see my complete resume <a href = "https://drive.google.com/file/d/1rJu_02s2l1Yr9ofSbMl-xJCyUYIUFUzM/view?usp=sharing">here</a>
+You can see my complete resume <a href = "https://drive.google.com/file/d/1AEVpOnMRN24bBDxYCFrJ1YELfmLdI3iJ/view?usp=sharing">here</a>
 
   
