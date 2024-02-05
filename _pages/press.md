@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "News"
+title: "News/Reports/Press"
 permalink: /press/
 author_profile: false
 ---
