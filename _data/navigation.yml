@@ -1,12 +1,22 @@
-# main links links
+# main links
 main:
+  - title: "About"
+    url: /
+
+  - title: "Updates"
+    url: /updates/
+
+  - title: "Studies"
+    url: /press/
+
   - title: "Publications"
     url: /publications/
-        
-  - title: "Press"
-    url: /press/
-    
+
+  - title: "Community"
+    url: /community/
+
+  - title: "Teaching"
+    url: /teaching/ai-product-development/
+
   - title: "CV"
     url: /cv/
-
-

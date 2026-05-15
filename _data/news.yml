@@ -1,0 +1,275 @@
+# News entries surfaced on /news/ (grouped by year, latest first) and /
+# Each entry:
+#   date: YYYY-MM-DD       (required; drives year grouping)
+#   html: "..."            (required; one-line summary for the timeline list)
+#   featured: true         (optional; surfaces this entry as a rich card at the
+#                           top of /news/ — needs title + body + link)
+#   title: "..."           (short headline for the featured card)
+#   body: "..."            (2-3 sentence excerpt for the featured card)
+#   link: "https://..."    (CTA URL on the featured card — usually the LinkedIn post)
+#   tags: [talk]           (optional; renders a pill next to the date.
+#                           supported: talk)
+
+# ============================================================
+# 2026
+# ============================================================
+
+- date: 2026-05-12
+  tags: [talk]
+  html: >-
+    Joined a <a href="https://www.linkedin.com/posts/dhara-mungra_in-a-world-where-ai-can-generate-content-activity-7460616938428186624-3fan/">fishbowl
+    session on AI and the future of journalism</a> at the
+    <strong><a href="https://ipi.media/">International Press Institute</a>
+    Media Innovation Festival</strong>
+    in Vienna, sharing how SimPPL&rsquo;s <em>Arbiter</em> platform supports
+    investigative reporting in algorithmically shaped information ecosystems.
+
+- date: 2026-05-02
+  html: >-
+    <strong><a href="https://www.linkedin.com/posts/dhara-mungra_excited-to-share-a-glimpse-into-what-ive-activity-7456731933482405888-BC0w/">AI
+    Product Development students build prototype for newsroom AI research.</a></strong>
+    Mansi Sawant, Nishit Suthar, and Adrian Hagen, students in my Mannheim
+    course, are measuring how Google AI Overviews shape what reporters
+    search for and what gets published &mdash; in partnership with newsrooms.
+
+- date: 2026-04-28
+  html: >-
+    Hosted <a href="https://www.linkedin.com/posts/dhara-mungra_today-we-had-savannah-allessandra-cozzi-activity-7455693811588030464-aDP7/">Savannah
+    Allessandra Cozzi as a guest lecturer</a> in my AI Product Development
+    class at Mannheim, on networking and personal branding for early-career
+    builders.
+
+- date: 2026-04-21
+  html: >-
+    <a href="https://www.linkedin.com/posts/dhara-mungra_seven-weeks-into-teaching-my-first-course-activity-7453090542193692672-dc0S/">Seven
+    weeks into my first course at Mannheim</a>: four student teams are now
+    prototyping with newsroom partners on platform-harm tracing, AI Overviews,
+    and data donation. Sayli Pednekar joined this week to talk UI/UX for AI
+    tools.
+
+- date: 2026-04-04
+  tags: [talk]
+  html: >-
+    <a href="https://www.linkedin.com/posts/dhara-mungra_simppl-activity-7446939376384794624-Z-gA/">Coffee
+    chat at DW Akademie</a> (courtesy Steffen Leidel) with journalists and
+    fact-checkers; rolled out an early version of Arbiter&rsquo;s
+    <strong>claims identification and sourcing</strong> features to beta users.
+
+- date: 2026-03-04
+  featured: true
+  title: "SimPPL into Fast Forward 2026"
+  body: >-
+    SimPPL selected into the Fast Forward 2026 Tech Nonprofit Accelerator
+    in San Francisco, joining a cohort chosen from hundreds of global
+    applicants. The program will support our work scaling Arbiter and
+    SimPPL&rsquo;s trust &amp; safety tools.
+  link: "https://www.linkedin.com/posts/dhara-mungra_aiforgood-informationintegrity-techforgood-activity-7435775867496300545-7_SS"
+  html: >-
+    SimPPL <a href="https://www.linkedin.com/posts/dhara-mungra_aiforgood-informationintegrity-techforgood-activity-7435775867496300545-7_SS">selected
+    into the Fast Forward 2026 Tech Nonprofit Accelerator</a> in San
+    Francisco, joining a cohort of leading tech nonprofits chosen from
+    hundreds of global applicants.
+
+- date: 2026-02-17
+  featured: true
+  title: "Inaugural Gustav Struve Fellow at Mannheim"
+  body: >-
+    Moved to Germany to join the University of Mannheim as the inaugural
+    Gustav Struve Fellow in Global Responsible AI, working with Marc
+    Ratkovic. Teaching a semester-long course on AI Product Development
+    where students build social-listening tools with newsrooms.
+  link: "https://www.linkedin.com/posts/dhara-mungra_i-am-excited-to-share-that-earlier-this-month-activity-7429473263833128960-WHJl"
+  html: >-
+    <a href="https://www.linkedin.com/posts/dhara-mungra_i-am-excited-to-share-that-earlier-this-month-activity-7429473263833128960-WHJl">Moved
+    to Germany to join the University of Mannheim</a> as the inaugural
+    <strong>Gustav Struve Fellow in Global Responsible AI</strong>, working
+    with Marc Ratkovic and teaching a semester-long course on AI Product
+    Development and Entrepreneurship.
+
+- date: 2026-02-15
+  html: >-
+    SimPPL&rsquo;s <em>Arbiter</em> platform <a href="https://www.linkedin.com/posts/dhara-mungra_aiimpactsummit2026-activity-7429464780966346752-oP6W">presented
+    by Himanshu Beniwal at the EkStep Foundation Pavilion</a> during the
+    <strong>India AI Impact Summit 2026</strong> in New Delhi.
+
+# ============================================================
+# 2025
+# ============================================================
+
+- date: 2025-12-11
+  html: >-
+    SimPPL <a href="https://www.linkedin.com/posts/jennslouie_raise-2025-activity-7408549393890439170-O-1A">highlighted
+    as part of the UNDP AI Trust &amp; Safety Reimagination cohort at
+    RAISE 2025</a>.
+
+- date: 2025-12-02
+  tags: [talk]
+  html: >-
+    Attended the <a href="https://www.linkedin.com/posts/dhara-mungra_gtsinnovationdialogue-aiimpactsummit2026-activity-7404873218076995584---CO">#GTSInnovationDialogue</a>,
+    co-hosted by Carnegie India and the Ministry of External Affairs as an
+    official pre-summit event of the India AI Impact Summit 2026; discussed
+    frameworks for AI-adoption use cases and shared learnings from scaling
+    Arbiter and Sakhi.
+
+- date: 2025-11-26
+  html: >-
+    Completed the <a href="https://www.linkedin.com/posts/dhara-mungra_this-week-marks-the-end-of-an-intensive-12-activity-7402543700134043648-C8BI">intensive
+    12-week AI Policy Clinic at the Center for AI and Digital Policy</a>,
+    delivering an updated country assessment of <strong>Malta</strong> for
+    the CAIDP 2026 AI &amp; Democratic Values Index.
+
+- date: 2025-11-24
+  tags: [talk]
+  html: >-
+    Attended the <a href="https://www.linkedin.com/posts/dhara-mungra_indiaallmpactsummit2026-aiforgood-peopleplanetprogress-activity-7398683590894477312-PeNU">Mozilla
+    Foundation RCC India pre-summit on Responsible AI in Higher Education</a>
+    in Kochi; presented SimPPL&rsquo;s NextGenAI Fellowship and co-led a
+    design-thinking session with Dr. B. Spoorthi.
+
+- date: 2025-11-15
+  tags: [talk]
+  html: >-
+    <a href="https://www.linkedin.com/posts/dhara-mungra_this-week-marks-the-end-ofweek-10at-the-activity-7395418504688013312-ibJw">Presented
+    Malta&rsquo;s country assessment</a> in Week 10 of the CAIDP AI Policy
+    Clinic with co-researchers Pritika Marguerite Magima (lead), Ethan Ward,
+    Bet&uuml;l K&uuml;bra Ekinci, and Erugo Precious.
+
+- date: 2025-10-27
+  featured: true
+  title: "Arbiter beta launch"
+  body: >-
+    First beta launch of Arbiter &mdash; a single product Swapneel and I
+    have been envisioning for over three years, finally onboarding users.
+    Built by the SimPPL engineering team, many of whom started as fellows
+    and interns. The immediate impact is exhilarating.
+  link: "https://www.linkedin.com/posts/dhara-mungra_digital-trust-aislop-activity-7388583554307383297-XWUG"
+  html: >-
+    <a href="https://www.linkedin.com/posts/dhara-mungra_digital-trust-aislop-activity-7388583554307383297-XWUG">First
+    beta launch of <strong>Arbiter</strong></a> &mdash; a milestone three
+    years in the making, onboarding the first wave of users.
+
+- date: 2025-10-25
+  tags: [talk]
+  html: >-
+    Wrapped the <a href="https://www.linkedin.com/posts/dhara-mungra_%F0%9D%97%9A%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%B6%F0%9D%98%81-activity-7387772600875163648-fEBH">Global
+    Changemakers Summit 2025</a>: presented prototypes against UN SDGs
+    alongside 50 Changemakers from 28 countries on health, education, gender
+    equality, climate, and peace.
+
+- date: 2025-10-08
+  tags: [talk]
+  html: >-
+    Attended <a href="https://www.linkedin.com/posts/dhara-mungra_tasi2025-trustandsafetyfestival-aiimpactsummit-activity-7380973869647667200-2DiF">TASI
+    2025 &mdash; the Pre-Summit on Trust and Safety in India</a> in New Delhi
+    (October 7&ndash;8), convening civil society, industry, academia, and
+    government on safer digital spaces.
+
+- date: 2025-10-07
+  html: >-
+    SimPPL <a href="https://www.linkedin.com/posts/swapneelm_ai-trust-and-safety-re-imagination-programme-activity-7380842911430496256-sKsE">selected
+    into the UNDP AI Trust &amp; Safety Reimagination Programme</a> cohort,
+    collaborating with global organizations to trace and mitigate digital
+    harms for vulnerable populations.
+
+- date: 2025-09-25
+  tags: [talk]
+  html: >-
+    Participated in the <a href="https://www.linkedin.com/posts/dhara-mungra_ai-responsibleai-ukindia-activity-7376547747904049152-_Fed">UK&ndash;India
+    AIxcelerate Summit (Sandpit)</a>, collaborating with UK&ndash;India
+    builders on a responsible-AI fintech framework for digitally marginalized
+    communities.
+
+- date: 2025-09-11
+  featured: true
+  title: "Joined the CAIDP AI Policy Clinic"
+  body: >-
+    After four years building open-access tools for civic integrity,
+    health equity, and digital safety at SimPPL, expanding into the policy
+    side &mdash; understanding how technology impacts people and how we
+    ensure it serves the public good.
+  link: "https://www.linkedin.com/posts/dhara-mungra_im-excited-to-share-that-ill-be-joining-activity-7371421746530324480-z86t"
+  html: >-
+    <a href="https://www.linkedin.com/posts/dhara-mungra_im-excited-to-share-that-ill-be-joining-activity-7371421746530324480-z86t">Joined
+    the Center for AI and Digital Policy AI Policy Clinic</a> as a Research
+    Group Member, expanding from tool-building at SimPPL into AI policy
+    research and benchmarking.
+
+- date: 2025-08-28
+  html: >-
+    Joined <a href="https://www.linkedin.com/posts/dhara-mungra_excited-to-share-that-im-joining-the-sheleads-activity-7366380045570932736-3Ual">SheLEADS:
+    Pathways to Employment as a mentor</a> &mdash; a Commonwealth of Learning
+    (COL-CEMCA) and Bharat Innovation Global initiative empowering 1,000
+    young women from Tier-II and Tier-III cities across India.
+
+- date: 2025-07-08
+  tags: [talk]
+  html: >-
+    Panelist at <a href="https://www.linkedin.com/posts/dhara-mungra_earlier-this-month-i-had-the-opportunity-activity-7352904606252756993-YtH1">LIRNEasia&rsquo;s
+    Day of Information Disorder</a> in Colombo, presenting Arbiter on the
+    closing AI panel; SimPPL has analyzed 250M+ posts to surface state-backed
+    disinformation networks.
+
+- date: 2025-04-25
+  tags: [talk]
+  html: >-
+    Invited speaker, <a href="https://www.ashoka.edu.in/event/cs-colloquium-dhara-mungra-ai-against-misinformation/">CS
+    Colloquium at Ashoka University</a>: <em>AI Against Misinformation</em>.
+
+- date: 2025-04-14
+  tags: [talk]
+  html: >-
+    Presented <strong>Sakhi at the MIT Decentralized AI Summit</strong>
+    (April 14&ndash;16).
+
+- date: 2025-03-15
+  tags: [talk]
+  html: >-
+    Spoke at <a href="https://www.linkedin.com/posts/dhara-mungra_%F0%9D%97%9F%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%81%F0%9D%98%86-%F0%9D%97%AF%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%B9%F0%9D%97%B1%F0%9D%97%BB-activity-7316030510340718592-qJL6">MisinfoCon
+    by Tattle Civic Technologies</a> on monitoring coordinated information
+    operations in the Global South; presented SimPPL&rsquo;s narrative-spread
+    and influence-measurement tools alongside Sakhi&rsquo;s GenAI maternal
+    health-literacy work (live with 300+ families across rural India and
+    Bangladesh).
+
+- date: 2025-03-12
+  html: >-
+    Co-founder <strong>Smriti Bhaya named finalist at the Commonwealth Youth
+    Awards</strong> for Sakhi.
+
+# ============================================================
+# 2024
+# ============================================================
+
+- date: 2024-12-11
+  tags: [talk]
+  html: >-
+    Delivered a <a href="https://www.linkedin.com/posts/dhara-mungra_we-had-an-exciting-past-week-working-with-activity-7272436889385627649-8d90">two-day
+    capacity-building workshop with Nest Center 4 Journalism Innovation in
+    Mongolia</a> (with support from DW Akademie): social listening, AI
+    tooling, web-scale data collection, toxicity and sentiment analysis,
+    and a Telegram-network monitoring case study.
+
+- date: 2024-11-21
+  tags: [talk]
+  html: >-
+    Presented SimPPL at the <a href="https://www.linkedin.com/posts/dhara-mungra_prototypesforhumanity-activity-7264941682071080960-z3iO">Dubai
+    Future Solutions Prototypes for Humanity exhibition</a>, on rebuilding
+    digital trust through cross-sector collaboration.
+
+- date: 2024-11-06
+  html: >-
+    Hosted the <a href="https://www.linkedin.com/posts/sim-ppl_join-us-for-djsces-responsible-innovation-activity-7258365246141075456-QN0X">Mozilla
+    Responsible Innovation Day at DJSCE</a> (with support from Mozilla RCC
+    India): expert talks, networking, and a tech challenge for
+    responsible-tech ideas.
+
+- date: 2024-07-01
+  html: >-
+    <strong>Left Bombora and joined SimPPL full-time</strong> as Co-founder
+    and Product Lead.
+
+- date: 2024-01-15
+  html: >-
+    Joined as a <strong>Google Responsible AI Fellowship mentor</strong>
+    and <strong>lead mentor for the Mozilla Responsible Computing Challenge
+    Fellowship</strong>.
