@@ -472,6 +472,82 @@
   max-width: 100%;
 }
 
+/* ---------- Mobile responsive overrides ---------- */
+
+@media (max-width: 768px) {
+  /* Top nav: allow wrapping, tighter spacing, smaller text */
+  .masthead__menu {
+    justify-content: flex-start;
+  }
+
+  .site-nav .visible-links,
+  .greedy-nav .visible-links {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 0.1em 0.4em;
+  }
+
+  .site-nav a,
+  .greedy-nav a {
+    margin: 0 0.4rem;
+    padding: 0.4rem 0;
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 600px) {
+  .masthead__inner-wrap {
+    padding: 0.6em 0.8em;
+  }
+
+  .site-nav a,
+  .greedy-nav a {
+    margin: 0 0.3rem;
+    font-size: 0.85em;
+  }
+
+  /* Timeline: collapse to single column on small screens */
+  .timeline__row {
+    grid-template-columns: 1fr !important;
+    gap: 0.3em;
+    padding: 0.8em 0;
+  }
+
+  /* Research cards: tighten padding */
+  .research-card {
+    padding: 1em 1em 0.85em 1.15em;
+  }
+
+  /* News cards: tighten padding, stack date + body */
+  .news-card {
+    padding: 0.85em 1em;
+  }
+
+  /* Featured cards: slightly narrower so they peek nicely */
+  .featured-card {
+    flex: 0 0 230px;
+  }
+
+  /* Year tab labels: slightly tighter */
+  .year-tabs__tab {
+    padding: 0.5em 0.9em;
+    font-size: 0.95em;
+  }
+
+  /* Institution logo: scale down */
+  .institution-logo {
+    width: 180px;
+  }
+
+  /* Body and section headings: ease vertical rhythm */
+  .page__content h2 {
+    margin: 2em 0 0.6em;
+  }
+}
+
+/* Hide the "Follow" button in sidebar on all sizes (it's a theme leftover) */
+.author__urls-wrapper .btn { display: none; }
+
 /* ---------- Course meta line (Teaching page) ---------- */
 
 .course-meta {

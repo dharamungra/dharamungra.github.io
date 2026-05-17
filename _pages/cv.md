@@ -21,7 +21,7 @@ redirect_from:
 ### [SimPPL](https://simppl.org/) &mdash; Co-founder
 *July 2022 &mdash; present &middot; Ahmedabad, India*
 
-- Lead a team of 22 building research-backed tools to improve trust on the social internet for **100M+ users in 6 countries** with the UN, New York Public Radio, Sunday Times, Deutsche Welle, Jagran News, and 10+ global partners.
+- Lead a team of 8&ndash;10 building research-backed tools to improve trust on the social internet for **100M+ users in 6 countries** with the UN, New York Public Radio, Sunday Times, Deutsche Welle, Jagran News, and 10+ global partners.
 - Apply machine learning to help local and global newsrooms, fact-checkers, non-profits, and civil society organizations better understand their impact and audiences.
 - Led media literacy partnership with Deutsche Welle (DW) to educate journalists about generative AI and the role of media organizations in combating mis-, dis-, and malinformation (MDM).
 - Raised **USD 350,000** in grants from AWS, Google, Wikimedia Foundation, Mozilla, NYC Media Lab, and Goethe Institut.
