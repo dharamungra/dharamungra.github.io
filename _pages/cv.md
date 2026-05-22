@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p style="margin-top: -0.5em;"><em>Last updated 13 October 2025.</em></p>
+<p style="margin-top: -0.5em;"><em>Last updated 22 May 2026.</em></p>
 
 ## Education
 
@@ -113,9 +113,9 @@ redirect_from:
 
 ## Fellowships
 
+- **Feb 2026 &mdash; present** &mdash; Inaugural Gustav Struve Fellow in Global Responsible AI, [University of Mannheim](https://www.uni-mannheim.de/)
 - **2025** &mdash; [Global Changemakers](https://www.global-changemakers.net/)
 - **2025** &mdash; [Center for AI and Digital Policy](https://www.caidp.org/) &mdash; Research Group; country lead, Malta (CAIDP 2026 Index)
-- **Feb 2026 &mdash; present** &mdash; Inaugural Gustav Struve Fellow in Global Responsible AI, [University of Mannheim](https://www.uni-mannheim.de/)
 
 ## Skills
 
